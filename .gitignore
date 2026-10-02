@@ -1,0 +1,18 @@
+# Inspiration and reference dotfiles
+inspirationDots/
+dots/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary and cache files
+*.log
+*.tmp
+*~
+.DS_Store
+
+# Wallpaper caches and runtime binaries
+wallpaper_effects/.wallpaper_current
+wallpaper_effects/.wallpaper_modified
+.cache/
